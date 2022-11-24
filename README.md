@@ -1,1 +1,1 @@
-# networks-and-security
+# Networks-and-Security lab
